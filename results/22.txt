@@ -1,6 +1,10 @@
-Toronto Raptors vs. Orlando Magic: [1]
-Los Angeles Clippers vs. Brooklyn Nets: [1]
-Memphis Grizzlies vs. Indiana Pacers: [1]
-Portland Trail Blazers vs. Washington Wizards: [0]
-Detroit Pistons vs. Utah Jazz: [0]
-Boston Celtics vs. Golden State Warriors: [0]
+Toronto Raptors vs. Orlando Magic: [1] W
+Los Angeles Clippers vs. Brooklyn Nets: [1] L
+Memphis Grizzlies vs. Indiana Pacers: [1] L
+Portland Trail Blazers vs. Washington Wizards: [0] L
+Detroit Pistons vs. Utah Jazz: [0] W
+Boston Celtics vs. Golden State Warriors: [0] L
+
+2/6
+
+
