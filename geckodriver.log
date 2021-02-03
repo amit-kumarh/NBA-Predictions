@@ -1,0 +1,24 @@
+1612316801459	geckodriver	INFO	Listening on 127.0.0.1:36407
+1612316802466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCHnwuF"
+
+(firefox:37817): GLib-GIO-CRITICAL **: 19:46:42.850: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:37817): GLib-GIO-CRITICAL **: 19:46:42.850: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:37817): GLib-GIO-CRITICAL **: 19:46:42.850: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612316803917	Marionette	INFO	Listening on port 37935
+1612316803993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612316808298	Marionette	INFO	Stopped listening on port 37935
+1612367082520	geckodriver	INFO	Listening on 127.0.0.1:41365
+1612367083525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBjuB4t"
+
+(firefox:31251): GLib-GIO-CRITICAL **: 09:44:44.024: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:31251): GLib-GIO-CRITICAL **: 09:44:44.024: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:31251): GLib-GIO-CRITICAL **: 09:44:44.024: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612367085308	Marionette	INFO	Listening on port 43241
+1612367085427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612367105015	Marionette	INFO	Stopped listening on port 43241
