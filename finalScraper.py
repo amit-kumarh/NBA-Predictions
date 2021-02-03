@@ -9,7 +9,7 @@ import datetime
 
 def scrapeStats():
     timeout = 25
-    driver = webdriver.Firefox()
+    driver = webdriver.Chrome()
 
     url = "https://www.nba.com/stats/teams/advanced/?sort=W_PCT&dir=-1&Season=2020-21&SeasonType=Regular%20Season&LastNGames=10"
     driver.get(url)

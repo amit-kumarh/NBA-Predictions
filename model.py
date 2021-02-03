@@ -14,6 +14,7 @@ import datetime
 import finalScraper
 
 def trainModel():
+    print('Loading and preprocessing data...\n')
     #loading dataset
     data = pd.read_csv('final.csv')
 
@@ -39,6 +40,7 @@ def trainModel():
     #print(confusion_matrix(y_test, pred_rfc))
 
     #SVM Classifier
+    print('Training model...\n')
     global clf
     clf = svm.SVC()
     clf.fit(X_train, y_train)
@@ -54,12 +56,14 @@ def trainModel():
 def main():
     trainModel()
     today = datetime.datetime.now()
+    print('Scraping advanced statistics from last 10 games...\n')
     stats = finalScraper.scrapeStats()
     matchups = pd.read_csv(f'./games/{today.month}{today.day}.csv')
     data = finalScraper.merge(stats)
     data = data.drop(columns=['Team1GP', "Team1W", 'Team1L', 'Team1MIN', 'Team2GP', "Team2W", 'Team2L', 'Team2MIN', 'Team1', 'Team2'], axis=1)
     data = data.apply(pd.to_numeric, errors='ignore')
     results = open(f"./results/{today.month}{today.day}.txt", 'a')
+    print('Predicting matches...\n')
     for row in range(len(data)):
         Xnew = [[]]
         for i in range(0,28):
@@ -67,7 +71,7 @@ def main():
         Xnew = sc.transform(Xnew)
         ynew = clf.predict(Xnew)
         results.write(f"{matchups.iloc[row, 0]} vs. {matchups.iloc[row, 1]}: {ynew}\n")
-        
+        print(f"{matchups.iloc[row, 0]} vs. {matchups.iloc[row, 1]}: {ynew}\n")
         
 if __name__ == '__main__':
     main()
