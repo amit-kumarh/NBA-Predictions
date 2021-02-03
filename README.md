@@ -1,6 +1,6 @@
 NBA-Predictions
-=======
-# Python scripts that use ML to predict the results of NBA games
+==========
+<h2>Python scripts that use ML to predict the results of NBA games</h2>
 
 bbref.py - scrapes every matchup from basketballreference.com for seasons 2009-2019 through 2018-2019. Skips 2011-2012 due to lockout
 
@@ -20,7 +20,7 @@ finalScraper.py - contains functions to scrape advanced stats for every team's l
 
 model.py - contains functions that train model, and a main function that calls on finalScraper.py to get a dataset of matchups and uses the SVM classifier model to predict the winner. Writes output to a file in the ./results folder 
 
-Given that finalScraper.py is unfinished, as of now it pulls the day's matchups from ./games/{month}{day}.csv (As in Feb. 2 would be 22.csv).
+Given that finalScraper.py is unfinished, as of now it pulls the day's matchups from ./games/{month}{day}.csv (As in Feb. 2 would be 22.csv). These files have to be created manually.
 
 
 
