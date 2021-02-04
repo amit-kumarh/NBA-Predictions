@@ -22,3 +22,103 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1612367085308	Marionette	INFO	Listening on port 43241
 1612367085427	Marionette	WARN	TLS certificate errors will be ignored for this session
 1612367105015	Marionette	INFO	Stopped listening on port 43241
+1612459940441	geckodriver	INFO	Listening on 127.0.0.1:43325
+1612459941446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNROyXR"
+
+(firefox:192753): GLib-GIO-CRITICAL **: 11:32:21.888: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:192753): GLib-GIO-CRITICAL **: 11:32:21.888: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:192753): GLib-GIO-CRITICAL **: 11:32:21.888: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612459943326	Marionette	INFO	Listening on port 38513
+1612459943381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612459943397	Marionette	ERROR	[15] No reply from Marionette:Register
+1612459954510	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612459954548	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612459954562	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612459956101	Marionette	INFO	Stopped listening on port 38513
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileNROyXR/protections.sqlite
+1612460166273	geckodriver	INFO	Listening on 127.0.0.1:55553
+1612460166299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuMaQD1"
+
+(firefox:197179): GLib-GIO-CRITICAL **: 11:36:06.809: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:197179): GLib-GIO-CRITICAL **: 11:36:06.809: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:197179): GLib-GIO-CRITICAL **: 11:36:06.809: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612460168964	Marionette	INFO	Listening on port 33787
+1612460169042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612460169057	Marionette	ERROR	[15] No reply from Marionette:Register
+1612460173993	Marionette	INFO	Stopped listening on port 33787
+1612460351518	geckodriver	INFO	Listening on 127.0.0.1:41979
+1612460351531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileocyodj"
+
+(firefox:200671): GLib-GIO-CRITICAL **: 11:39:11.975: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:200671): GLib-GIO-CRITICAL **: 11:39:11.975: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:200671): GLib-GIO-CRITICAL **: 11:39:11.976: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612460354369	Marionette	INFO	Listening on port 38323
+1612460354505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612460354535	Marionette	ERROR	[15] No reply from Marionette:Register
+1612460364499	Marionette	INFO	Stopped listening on port 38323
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612460560584	geckodriver	INFO	Listening on 127.0.0.1:54613
+1612460560590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXmhrvR"
+
+(firefox:204753): GLib-GIO-CRITICAL **: 11:42:41.007: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:204753): GLib-GIO-CRITICAL **: 11:42:41.007: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:204753): GLib-GIO-CRITICAL **: 11:42:41.007: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612460562452	Marionette	INFO	Listening on port 36485
+1612460562521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612460562543	Marionette	ERROR	[15] No reply from Marionette:Register
+1612460571819	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612460571843	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612460571845	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612460574517	Marionette	INFO	Stopped listening on port 36485
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileXmhrvR/protections.sqlite
