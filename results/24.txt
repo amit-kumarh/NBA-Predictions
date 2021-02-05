@@ -1,5 +1,7 @@
-Utah Jazz vs. Atlanta Hawks: [1]
-Golden State Warriors vs. Dallas Mavericks: [1]
-Portland Trail Blazers vs. Philadelphia 76ers: [0]
-Houston Rockets vs. Memphis Grizzlies: [0]
-Denver Nuggets vs. Los Angeles Lakers: [0]
+Utah Jazz vs. Atlanta Hawks: [1] W
+Golden State Warriors vs. Dallas Mavericks: [1] W
+Portland Trail Blazers vs. Philadelphia 76ers: [0] L
+Houston Rockets vs. Memphis Grizzlies: [0] L
+Denver Nuggets vs. Los Angeles Lakers: [0] W
+
+3/5
