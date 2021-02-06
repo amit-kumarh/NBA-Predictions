@@ -1,9 +1,11 @@
-New Orleans Pelicans vs. Indiana Pacers: [0]
-Chicago Bulls vs. Orlando Magic: [1]
-Toronto Raptors vs. Brooklyn Nets: [0]
-Milwaukee Bucks vs. Cleveland Cavaliers: [1]
-Utah Jazz vs. Charlotte Hornets: [1]
-Washington Wizards vs. Miami Heat: [0]
-Minnesota Timberwolves vs. Oklahoma City Thunder: [0]
-Detroit Pistons vs. Phoenix Suns: [0]
-Boston Celtics vs. Los Angeles Clippers: [0]
+New Orleans Pelicans vs. Indiana Pacers: [0] L
+Chicago Bulls vs. Orlando Magic: [1] L
+Toronto Raptors vs. Brooklyn Nets: [0] L
+Milwaukee Bucks vs. Cleveland Cavaliers: [1] W
+Utah Jazz vs. Charlotte Hornets: [1] W
+Washington Wizards vs. Miami Heat: [0] W
+Minnesota Timberwolves vs. Oklahoma City Thunder: [0]L
+Detroit Pistons vs. Phoenix Suns: [0] W
+Boston Celtics vs. Los Angeles Clippers: [0]L
+
+4/9
