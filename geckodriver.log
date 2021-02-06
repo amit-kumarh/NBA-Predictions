@@ -140,3 +140,17 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Pha
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1612639788034	geckodriver	INFO	Listening on 127.0.0.1:48067
+1612639788039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRMcJmE"
+
+(firefox:1362501): GLib-GIO-CRITICAL **: 13:29:48.432: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:1362501): GLib-GIO-CRITICAL **: 13:29:48.432: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:1362501): GLib-GIO-CRITICAL **: 13:29:48.432: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612639789811	Marionette	INFO	Listening on port 35797
+1612639789884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612639789902	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612639793236	Marionette	INFO	Stopped listening on port 35797
