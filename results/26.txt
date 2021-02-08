@@ -1,11 +1,13 @@
-Portland Trail Blazers vs. New York Knicks: [0]
-Denver Nuggets vs. Sacramento Kings: [1]
-Chicago Bulls vs. Orlando Magic: [1]
-Brooklyn Nets vs. Philadelphia 76ers: [0]
-Toronto Raptors vs. Atlanta Hawks: [0]
-Milwaukee Bucks vs. Cleveland Cavaliers: [1]
-San Antonio Spurs vs. Houston Rockets: [0]
-Minnesota Timberwolves vs. Oklahoma City Thunder: [0]
-Golden State Warriors vs. Dallas Mavericks: [1]
-Memphis Grizzlies vs. New Orleans Pelicans: [1]
-Detroit Pistons vs. Los Angeles Lakers: [0]
+Portland Trail Blazers vs. New York Knicks: [0] W
+Denver Nuggets vs. Sacramento Kings: [1] L
+Chicago Bulls vs. Orlando Magic: [1] W
+Brooklyn Nets vs. Philadelphia 76ers: [0] W
+Toronto Raptors vs. Atlanta Hawks: [0] W
+Milwaukee Bucks vs. Cleveland Cavaliers: [1] W
+San Antonio Spurs vs. Houston Rockets: [0] L
+Minnesota Timberwolves vs. Oklahoma City Thunder: [0] W
+Golden State Warriors vs. Dallas Mavericks: [1] L
+Memphis Grizzlies vs. New Orleans Pelicans: [1] L
+Detroit Pistons vs. Los Angeles Lakers: [0] W
+
+7/11
