@@ -168,3 +168,57 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1612796925173	Marionette	WARN	TLS certificate errors will be ignored for this session
 1612796925187	Marionette	ERROR	[15] No reply from Marionette:Register
 1612796929377	Marionette	INFO	Stopped listening on port 36875
+1612975709803	geckodriver	INFO	Listening on 127.0.0.1:59869
+1612975710807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileblGqJi"
+
+(firefox:51912): GLib-GIO-CRITICAL **: 10:48:31.242: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:51912): GLib-GIO-CRITICAL **: 10:48:31.242: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:51912): GLib-GIO-CRITICAL **: 10:48:31.242: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612975712750	Marionette	INFO	Listening on port 33459
+1612975712855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612975712867	Marionette	ERROR	[15] No reply from Marionette:Register
+1612975716338	Marionette	INFO	Stopped listening on port 33459
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileblGqJi/protections.sqlite
+1612975755520	geckodriver	INFO	Listening on 127.0.0.1:57029
+1612975755524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5boUok"
+
+(firefox:53345): GLib-GIO-CRITICAL **: 10:49:15.966: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:53345): GLib-GIO-CRITICAL **: 10:49:15.966: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:53345): GLib-GIO-CRITICAL **: 10:49:15.966: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612975757495	Marionette	INFO	Listening on port 46177
+1612975757566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612975757587	Marionette	ERROR	[15] No reply from Marionette:Register
+1612975760432	Marionette	INFO	Stopped listening on port 46177
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile5boUok/protections.sqlite

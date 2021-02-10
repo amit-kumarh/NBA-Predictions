@@ -1,8 +1,10 @@
-Houston Rockets vs. Charlotte Hornets: [1]
-Washington Wizards vs. Chicago Bulls: [0]
-Toronto Raptors vs. Memphis Grizzlies: [0]
-Minnesota Timberwolves vs. Dallas Mavericks: [0]
-Golden State Warriors vs. San Antonio Spurs: [1]
-Cleveland Cavaliers vs. Phoenix Suns: [0]
-Milwaukee Bucks vs. Denver Nuggets: [1]
-Oklahoma City Thunder vs. Los Angeles Lakers: [0]
+Houston Rockets vs. Charlotte Hornets: [1] L
+Washington Wizards vs. Chicago Bulls: [0] L
+Toronto Raptors vs. Memphis Grizzlies: [0] L
+Minnesota Timberwolves vs. Dallas Mavericks: [0] W
+Golden State Warriors vs. San Antonio Spurs: [1] L
+Cleveland Cavaliers vs. Phoenix Suns: [0] W
+Milwaukee Bucks vs. Denver Nuggets: [1] W
+Oklahoma City Thunder vs. Los Angeles Lakers: [0] W
+
+4/8
