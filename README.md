@@ -21,7 +21,7 @@ NBA-Predictions
 - final.csv 
   - dataset used for training model. One line per matchup, each line has winner and advanced stats for each team.
 
-- final_data.csv 
+- data_with_teams.csv 
   - final.csv with team names and scores in each matchup
 
 - finalScraper.py 
